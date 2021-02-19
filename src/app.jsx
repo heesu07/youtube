@@ -24,7 +24,7 @@ function App() {
 
   return (
     <>
-      <Search /> 
+      {/* <Search />  */}
       <Videolist videos={videos} />
     </>
   );
