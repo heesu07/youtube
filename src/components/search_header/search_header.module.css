@@ -8,9 +8,9 @@
 
 .logo {
   display: flex;
-
   align-items: center;
   margin-right: 1em;
+  cursor: pointer;
 }
 
 .input {
